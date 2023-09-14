@@ -1,5 +1,5 @@
 # Django_project
-pip install Django
+1.pip install Django
 django-admin startproject proje_adı
 proje_adı/
 ├── proje_adı/
