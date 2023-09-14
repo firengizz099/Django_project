@@ -10,6 +10,6 @@
 ├── manage.py
 └── venv/ (isteğe bağlı - sanal ortam klasörü)
 
-4)python manage.py runserver
-5)python manage.py startapp uygulama_adı
+4) python manage.py runserver
+5) python manage.py startapp uygulama_adı
 
