@@ -1,4 +1,4 @@
-# Django_project
+# Django project
 
 1) Django projenizi başlatmak için aşağıdaki adımları izleyebilirsiniz:
 
