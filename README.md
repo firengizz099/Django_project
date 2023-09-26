@@ -2,8 +2,8 @@
 ![App Screenshot](https://github.com/firengizz099/Django_project/blob/main/django1.jpg?raw=true)
 1) **Django projenizi başlatmak için aşağıdaki adımları izleyebilirsiniz:**
 
-2) İlk adım olarak, Django'yu yüklemek için pip kullanarak aşağıdaki komutu çalıştırın:
-pip install Django
+2) **İlk adım olarak, Django'yu yüklemek için pip kullanarak aşağıdaki komutu çalıştırın:
+pip install Django**
 
 3) Django projesini oluşturmak için aşağıdaki komutu kullanın (proje_adı yerine projenizin adını belirtin):
 django-admin startproject proje_adı
