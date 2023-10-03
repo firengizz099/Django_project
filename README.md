@@ -19,7 +19,7 @@ proje_adı/
 └── venv/ (isteğe bağlı - sanal ortam klasörü)
 5) Şimdi Django projesi ana dizinine gidin:
 cd proje_adı
-6) **Bir uygulama (uygulama_adı) oluşturmak için aşağıdaki komutu kullanın (uygulama_adı yerine kendi uygulama adınızı kullanmalısınız):
-python manage.py startapp uygulama_adı**
+6) Bir uygulama (uygulama_adı) oluşturmak için aşağıdaki komutu kullanın (uygulama_adı yerine kendi uygulama adınızı kullanmalısınız):
+python manage.py startapp uygulama_adı
 7) **Son olarak, Django geliştirme sunucusunu başlatmak için aşağıdaki komutu çalıştırın:
 python manage.py runserver**
