@@ -11,7 +11,7 @@ django-admin startproject proje_adı**
 **4) Bu komut, Django projesini içeren bir ana dizin oluşturacak ve içinde aşağıdaki dosyaları içerecek:**
 **proje_adı/**
 **├── proje_adı/**
-│   ├── __init__.py
+**│   ├── __init__.py**
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
