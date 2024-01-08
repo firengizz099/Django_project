@@ -13,7 +13,7 @@ django-admin startproject proje_adı**
 **├── proje_adı/**
 **│   ├── __init__.py**
 **│   ├── settings.py**
-│   ├── urls.py
+**│   ├── urls.py**
 │   └── wsgi.py
 ├── manage.py
 └── venv/ (isteğe bağlı - sanal ortam klasörü)
