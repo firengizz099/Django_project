@@ -8,7 +8,7 @@ pip install Django**
 **3) Django projesini oluşturmak için aşağıdaki komutu kullanın (proje_adı yerine projenizin adını belirtin):
 django-admin startproject proje_adı**
 
-4) Bu komut, Django projesini içeren bir ana dizin oluşturacak ve içinde aşağıdaki dosyaları içerecek:
+**4) Bu komut, Django projesini içeren bir ana dizin oluşturacak ve içinde aşağıdaki dosyaları içerecek:**
 proje_adı/
 ├── proje_adı/
 │   ├── __init__.py
