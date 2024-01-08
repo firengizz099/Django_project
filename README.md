@@ -14,7 +14,7 @@ django-admin startproject proje_adı**
 **│   ├── __init__.py**
 **│   ├── settings.py**
 **│   ├── urls.py**
-│   └── wsgi.py
+**│   └── wsgi.py**
 ├── manage.py
 └── venv/ (isteğe bağlı - sanal ortam klasörü)
 5) Şimdi Django projesi ana dizinine gidin:
