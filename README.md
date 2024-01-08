@@ -16,7 +16,7 @@ django-admin startproject proje_adı**
 **│   ├── urls.py**
 **│   └── wsgi.py**
 **├── manage.py**
-└── venv/ (isteğe bağlı - sanal ortam klasörü)
+**└── venv/ (isteğe bağlı - sanal ortam klasörü)**
 5) Şimdi Django projesi ana dizinine gidin:
 cd proje_adı
 6) Bir uygulama (uygulama_adı) oluşturmak için aşağıdaki komutu kullanın (uygulama_adı yerine kendi uygulama adınızı kullanmalısınız):
